@@ -1,3 +1,5 @@
+<a href="https://zenodo.org/badge/latestdoi/183394203"><img src="https://zenodo.org/badge/183394203.svg" alt="DOI"></a>
+
 # ReviewfMRI
 Data and results of a review executed on reporting practices in fMRI studies
 
